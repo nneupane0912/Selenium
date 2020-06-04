@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13437" started-at="2020-05-29T15:35:57Z" finished-at="2020-05-29T15:36:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13437" started-at="2020-05-29T15:35:57Z" finished-at="2020-05-29T15:36:10Z">
+      <class name="com.narayan.Testng.EmpCreation">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.narayan.Testng.EmpCreation@6ad5c04e]" name="appLaunch" is-config="true" duration-ms="7671" started-at="2020-05-29T10:35:49Z" finished-at="2020-05-29T10:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.narayan.Testng.EmpCreation@6ad5c04e]" name="appLogin" is-config="true" duration-ms="1947" started-at="2020-05-29T10:35:57Z" finished-at="2020-05-29T10:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="EmpCreation()[pri:0, instance:com.narayan.Testng.EmpCreation@6ad5c04e]" name="EmpCreation" duration-ms="8605" started-at="2020-05-29T10:35:59Z" finished-at="2020-05-29T10:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmpCreation -->
+        <test-method status="PASS" signature="appLogOut()[pri:0, instance:com.narayan.Testng.EmpCreation@6ad5c04e]" name="appLogOut" is-config="true" duration-ms="2859" started-at="2020-05-29T10:36:07Z" finished-at="2020-05-29T10:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogOut -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:com.narayan.Testng.EmpCreation@6ad5c04e]" name="appclose" is-config="true" duration-ms="84" started-at="2020-05-29T10:36:10Z" finished-at="2020-05-29T10:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+      </class> <!-- com.narayan.Testng.EmpCreation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

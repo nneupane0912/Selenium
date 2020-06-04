@@ -1,0 +1,12 @@
+<suite name="Narayan">
+  <test name="smoke">
+    
+<classes>
+       <class name="com.narayan.Testng.AdminLoginTest" />
+       <class name="com.narayan.Testng.AnnotationTest" />
+       <class name="com.narayan.Testng.AnnotationTest1" />
+    </classes>
+  </test>
+ 
+  
+</suite>
